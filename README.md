@@ -23,11 +23,11 @@ I’m passionate about **data science**, **data manipulation** and finding meani
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - LinkedIn: [linkedin.com/in/francescacola](https://www.linkedin.com/in/francescacola)
 - Email: francescacola98@hotmail.com
 
 ---
 
 ## Fun Fact About Me
-I love crime documentaries almost as much as I love cleaning messy datasets — and yes, both involve solving mysteries 🔍
+I love crime documentaries almost as much as I love cleaning messy datasets, maybe because both involve solving mysteries!
