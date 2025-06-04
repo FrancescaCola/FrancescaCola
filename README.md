@@ -27,8 +27,8 @@ I’m passionate about **data science**, **data manipulation** and finding meani
 ---
 
 ## How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancescaCola-blue?logo=linkedin)](https://www.linkedin.com/in/francescacola)
-[![Email](https://img.shields.io/badge/Email-francesca.coladata@gmail.com-red?logo=gmail)](mailto:francesca.coladata@gmail.com)
+- LinkedIn: [linkedin.com/in/francescacola](https://www.linkedin.com/in/francescacola)
+- Email: francescacola98@hotmail.com
 
 ---
 
