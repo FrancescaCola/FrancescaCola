@@ -1,9 +1,5 @@
 # Hi, I’m @FrancescaCola
 
-![GitHub followers](https://img.shields.io/github/followers/FrancescaCola?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/FrancescaCola?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=FrancescaCola&style=flat)
-
 I recently completed the **Data & AI Analysis** program at Develhope Academy 
 
 I’m passionate about **data science**, **data manipulation** and finding meaningful insights through clean and efficient code.
@@ -31,8 +27,8 @@ I’m passionate about **data science**, **data manipulation** and finding meani
 ---
 
 ## How to Reach Me
-- LinkedIn: [linkedin.com/in/francescacola](https://www.linkedin.com/in/francescacola)
-- Email: francescacola98@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancescaCola-blue?logo=linkedin)](https://www.linkedin.com/in/francescacola)
+[![Email](https://img.shields.io/badge/Email-francesca.coladata@gmail.com-red?logo=gmail)](mailto:francesca.coladata@gmail.com)
 
 ---
 
