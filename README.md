@@ -1,5 +1,9 @@
 # Hi, I’m @FrancescaCola
 
+![GitHub followers](https://img.shields.io/github/followers/FrancescaCola?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/FrancescaCola?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=FrancescaCola&style=flat)
+
 I recently completed the **Data & AI Analysis** program at Develhope Academy 
 
 I’m passionate about **data science**, **data manipulation** and finding meaningful insights through clean and efficient code.
@@ -9,11 +13,14 @@ I’m passionate about **data science**, **data manipulation** and finding meani
 ---
 
 ## Tech Stack & Tools
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
-- 🛢 SQL & SQLite for data extraction and transformation
-- 📊 Google Sheets for formulas, KPI tracking, and quick visual dashboards
-- 💻 VS Code, Jupyter Notebook, Git & GitHub for version control and collaboration
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=flat&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ---
 
 ## What I’m Working On
