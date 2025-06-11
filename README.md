@@ -17,6 +17,7 @@ I’m passionate about **data science**, **data manipulation** and finding meani
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=flat&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![Office_Package](https://img.shields.io/badge/Office%20Package-34A853?style=flat&logo=office-package&logoColor=white)
 ---
 
 ## What I’m Working On
